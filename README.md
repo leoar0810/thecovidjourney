@@ -1,5 +1,5 @@
 # TheCovidJourney
-Interactive simulation of Covid-19 infections using graph theory. Propagation speed is determined by the use of mask and the distance between nodes.
+Interactive simulation of Covid-19 infections using graph theory and java threads. Propagation speed is determined by the use of mask and the distance between nodes.
 
 |Infected person|Uninfected person|Distance (m)|Probability (%)|
 |--|--|--|--|
