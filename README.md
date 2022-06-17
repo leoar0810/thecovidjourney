@@ -12,7 +12,7 @@ Interactive simulation of Covid-19 infections using graph theory. Propagation sp
 |Mask|Mask|>2|20|
 |Mask|Mask|<=2|30|
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/simul.png" height="400">
+<img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/simul.png" height="500">
 
 ### Built With
 
