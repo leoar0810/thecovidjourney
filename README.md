@@ -34,6 +34,7 @@ You can clone this repsitory to get the source code
  1. Open the project with your IDE.
  2. Run the class `main.TheCovidJourney.java`.
  
+ <img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/menu.png" height="400">
  <img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/params.png" height="400">
  
 ## Build
