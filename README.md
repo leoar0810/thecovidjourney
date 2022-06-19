@@ -12,7 +12,7 @@ Interactive simulator of Covid-19 infections using graph theory and java threads
 |Mask|Mask|>2|20|
 |Mask|Mask|<=2|30|
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/simul.png" height="500">
+<img src="https://user-images.githubusercontent.com/73978713/174461035-ddc4f32d-b51b-490a-9863-65b076ad7ba4.png" height="500">
 
 ### Built With
 
@@ -34,12 +34,12 @@ You can clone this repsitory to get the source code
  1. Open the project with your IDE.
  2. Run the class `main.TheCovidJourney.java`.
  
- <img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/menu.png" height="400">
- <img src="https://raw.githubusercontent.com/LeonardoVergara/TheCovidJourney/main/.github/images/params.png" height="400">
+ <img src="https://user-images.githubusercontent.com/73978713/174461034-9a2498ab-2c4a-468a-b840-0b6e65b16bad.png" height="400">
+ <img src="https://user-images.githubusercontent.com/73978713/174461036-50001d58-d061-4239-9e37-1326789fd2e0.png" height="400">
  
 ## Build
 
-The process of generating a .jar executable is guided by your IDE.
+The process of generating a .jar executable is guided by your IDE. If using NetBeans, please copy the `src/res` folder into the generated `dist` folder.
 
 ## Authors
 
