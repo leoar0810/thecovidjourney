@@ -27,7 +27,7 @@ Interactive simulator of Covid-19 infections using graph theory and java threads
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/LeonardoVergara/TheCovidJourney.git
+    git clone https://github.com/vergaraldvm/TheCovidJourney.git
 
 ## Usage
 
